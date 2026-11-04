@@ -39,9 +39,10 @@ In real companies, data sits in separate tables (customers, orders, products). I
 ## Analysis Work
 User stories with acceptance criteria are included in `insights_superstore.docx`, linking each dashboard feature to a user need (for example, a regional sales manager filtering by region).
 
-## Files
-| `superstore_analysis.xlsx` |- Excel pivots, formulas and charts 
-| `QUERIES_1.sql`|- SQL queries with business-question comments 
-| `superstore_dashboard.pbix` |- Power BI dashboard 
-| `superstore_dashboard_ss.png` |-Dashboard screenshot 
-| `insights_superstore.docx` | Findings, recommendations and user stories 
+| File | Description |
+|---|---|
+| `superstore_analysis.xlsx` | Excel pivots and charts |
+| `QUERIES_1.sql` | SQL queries with business-question comments |
+| `superstore_dashboard.pbix` | Power BI dashboard |
+| `superstore_dashboard_ss.png` | Dashboard screenshot |
+| `insights_superstore.docx` | Findings, recommendations and user stories |
